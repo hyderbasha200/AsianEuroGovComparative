@@ -1,0 +1,14 @@
+{
+  "name": "@hyder-basha-shaik/project2",
+  "main": "0496f9cf811c5f1f@268.js",
+  "version": "268.0.0",
+  "homepage": "https://observablehq.com/@hyder-basha-shaik/project2",
+  "author": {
+    "name": "Hyder Basha Shaik",
+    "url": "https://observablehq.com/@hyder-basha-shaik"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
